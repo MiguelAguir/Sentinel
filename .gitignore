@@ -1,0 +1,63 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.metadata/
+*~
+
+# Flutter
+**/build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/android/build/
+**/android/local.properties
+*.iml
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+local.properties
+
+# iOS
+**/ios/.xcode.env
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.stbuild
+*.xcuserdata
+xcuserdata
+
+# Windows
+**/windows/out/
+**/windows/runner/GeneratedPluginRegistrant.*
+*.vcxproj.user
+
+# Web
+**/web/build/
+
+# Environment
+.env
+.env.local
+.env.production
